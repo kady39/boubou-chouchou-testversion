@@ -1,0 +1,13 @@
+/* style.css
+   Base site styles. Both pages already carry their own <style> blocks
+   with everything needed to render correctly on their own, so this file
+   is intentionally light — add any shared/global styles here.
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
